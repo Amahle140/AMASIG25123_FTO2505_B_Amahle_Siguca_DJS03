@@ -1,4 +1,4 @@
-# 🎧 DJS03: React Podcast Landing Page  
+#  DJS03: React Podcast Landing Page  
 
 This is my **React project** where I created a landing page for a podcast discovery app.  
 It fetches podcast data from an external API and shows them in a clean, responsive grid.  
